@@ -9,10 +9,3 @@ An interactive and user-friendly **Stopwatch Web App** built using **HTML**, **C
 - ✅ Clean and minimal user interface  
 - ✅ Fully responsive across all devices  
 
-## 🧠 What I Learned  
-- Handling **timing functions** in JavaScript (`setInterval`, `clearInterval`)  
-- DOM manipulation to update **live time display**  
-- Implementing **lap time recording** logic  
-- Designing a simple and intuitive **UI**  
-
-
